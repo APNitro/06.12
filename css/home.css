@@ -1,0 +1,14 @@
+.a-section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.a-bloc {
+    width: 40%;
+    background-color: rgba(172, 255, 47, 0.562);
+    margin: 5vw 0vw 5vw 0vw;
+}
+.a-img {
+    width: 100%;
+    height: auto;
+}
